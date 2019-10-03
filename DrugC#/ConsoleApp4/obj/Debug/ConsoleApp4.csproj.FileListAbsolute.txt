@@ -1,0 +1,11 @@
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\HtmlAgilityPack.dll
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\HtmlAgilityPack.pdb
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\HtmlAgilityPack.xml
+D:\Users\C402193\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
