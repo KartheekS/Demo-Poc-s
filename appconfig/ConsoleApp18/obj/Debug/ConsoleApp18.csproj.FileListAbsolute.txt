@@ -1,0 +1,7 @@
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojAssemblyReference.cache
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+D:\Users\C402193\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
